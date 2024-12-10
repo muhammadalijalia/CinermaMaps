@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="GuidelineCell" id="gTV-IL-0wX" customClass="GuidelineCell" customModule="Cinerama_Maps" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="202" height="190"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="202" height="190"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2Km-Sh-7Pn">
+                        <rect key="frame" x="6" y="6" width="190" height="178"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="Rectangle (1)" translatesAutoresizingMaskIntoConstraints="NO" id="6xh-Ub-XuW">
+                                <rect key="frame" x="0.0" y="0.0" width="190" height="106.66666666666667"/>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="How to prepare yourself for travel" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JQh-GO-sTM">
+                                <rect key="frame" x="6" y="112.66666666666667" width="178" height="35.333333333333329"/>
+                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="12"/>
+                                <color key="textColor" red="0.0" green="0.30975638570000003" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Q5X-eV-Yjz">
+                                <rect key="frame" x="152" y="154" width="30" height="16"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="16" id="jOw-Tw-LZu"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="Avenir-Heavy" family="Avenir" pointSize="12"/>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" title="More">
+                                    <color key="titleColor" name="Main"/>
+                                </state>
+                                <connections>
+                                    <action selector="btn_More:" destination="gTV-IL-0wX" eventType="touchUpInside" id="pdF-OM-U1O"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="6xh-Ub-XuW" firstAttribute="leading" secondItem="2Km-Sh-7Pn" secondAttribute="leading" id="6z3-DS-01C"/>
+                            <constraint firstAttribute="bottom" secondItem="Q5X-eV-Yjz" secondAttribute="bottom" constant="8" id="I7R-2t-KVq"/>
+                            <constraint firstItem="Q5X-eV-Yjz" firstAttribute="top" secondItem="JQh-GO-sTM" secondAttribute="bottom" constant="6" id="QN1-iA-88q"/>
+                            <constraint firstItem="6xh-Ub-XuW" firstAttribute="height" secondItem="2Km-Sh-7Pn" secondAttribute="height" multiplier="0.6" id="TK7-mD-zf1"/>
+                            <constraint firstAttribute="trailing" secondItem="6xh-Ub-XuW" secondAttribute="trailing" id="YR7-iV-vcF"/>
+                            <constraint firstAttribute="trailing" secondItem="Q5X-eV-Yjz" secondAttribute="trailing" constant="8" id="ZA5-yc-OBq"/>
+                            <constraint firstAttribute="trailing" secondItem="JQh-GO-sTM" secondAttribute="trailing" constant="6" id="aLE-wi-jq7"/>
+                            <constraint firstItem="JQh-GO-sTM" firstAttribute="leading" secondItem="2Km-Sh-7Pn" secondAttribute="leading" constant="6" id="mRz-Bh-2ln"/>
+                            <constraint firstItem="6xh-Ub-XuW" firstAttribute="top" secondItem="2Km-Sh-7Pn" secondAttribute="top" id="sXl-EP-ras"/>
+                            <constraint firstItem="JQh-GO-sTM" firstAttribute="top" secondItem="6xh-Ub-XuW" secondAttribute="bottom" constant="6" id="xca-Vk-Wjw"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="number" keyPath="shadowOpacity">
+                                <real key="value" value="0.5"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="size" keyPath="shadowOffset">
+                                <size key="value" width="1" height="1"/>
+                            </userDefinedRuntimeAttribute>
+                            <userDefinedRuntimeAttribute type="color" keyPath="shadowColor">
+                                <color key="value" white="0.0" alpha="0.5" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstItem="2Km-Sh-7Pn" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="6" id="1GY-kO-0bm"/>
+                <constraint firstAttribute="bottom" secondItem="2Km-Sh-7Pn" secondAttribute="bottom" constant="6" id="W2l-0I-Ghv"/>
+                <constraint firstItem="2Km-Sh-7Pn" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="6" id="kAp-sX-Re9"/>
+                <constraint firstAttribute="trailing" secondItem="2Km-Sh-7Pn" secondAttribute="trailing" constant="6" id="rrh-37-Ngv"/>
+            </constraints>
+            <size key="customSize" width="202" height="196"/>
+            <connections>
+                <outlet property="img" destination="6xh-Ub-XuW" id="m3L-RV-gB8"/>
+                <outlet property="lbl_Text" destination="JQh-GO-sTM" id="NIk-NS-V1W"/>
+            </connections>
+            <point key="canvasLocation" x="135.87786259541986" y="32.74647887323944"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="Rectangle (1)" width="332" height="182"/>
+        <namedColor name="Main">
+            <color red="0.88627450980392153" green="0.36862745098039218" blue="0.078431372549019607" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </namedColor>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

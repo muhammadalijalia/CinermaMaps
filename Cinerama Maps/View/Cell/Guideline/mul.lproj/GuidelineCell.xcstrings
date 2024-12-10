@@ -1,0 +1,18 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "JQh-GO-sTM.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"How to prepare yourself for travel\"; ObjectID = \"JQh-GO-sTM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How to prepare yourself for travel"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

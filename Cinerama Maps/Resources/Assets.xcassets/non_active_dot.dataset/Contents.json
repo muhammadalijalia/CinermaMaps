@@ -1,0 +1,12 @@
+{
+  "data" : [
+    {
+      "filename" : "non_active_dot.xml",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

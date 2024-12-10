@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="23504" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="23506"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="MapMarkerView" customModule="Cinerama_Maps" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="45" height="45"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="circle" translatesAutoresizingMaskIntoConstraints="NO" id="S21-h2-KiG">
+                    <rect key="frame" x="0.0" y="0.0" width="45" height="45"/>
+                    <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </imageView>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="circle" translatesAutoresizingMaskIntoConstraints="NO" id="Btc-c9-PmG">
+                    <rect key="frame" x="4" y="2" width="37" height="39"/>
+                    <color key="tintColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                </imageView>
+                <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="1kd-AI-b5Z" customClass="PieChartView" customModule="Cinerama_Maps" customModuleProvider="target">
+                    <rect key="frame" x="7.6666666666666679" y="3" width="30.000000000000004" height="27"/>
+                    <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="30" id="G8M-D2-Hbb"/>
+                        <constraint firstAttribute="height" constant="27" id="fhq-Mm-mia"/>
+                    </constraints>
+                </view>
+                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="5St-jP-NLF">
+                    <rect key="frame" x="12.666666666666664" y="6.6666666666666679" width="20" height="20"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="5St-jP-NLF" secondAttribute="height" multiplier="1:1" id="SDJ-Sg-3fo"/>
+                        <constraint firstAttribute="height" constant="20" id="Uqj-AR-FpL"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="Btc-c9-PmG" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="4" id="5ya-tG-dBv"/>
+                <constraint firstItem="S21-h2-KiG" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="6CL-MY-Trz"/>
+                <constraint firstItem="Btc-c9-PmG" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="2" id="7r2-TX-pir"/>
+                <constraint firstAttribute="bottom" secondItem="S21-h2-KiG" secondAttribute="bottom" id="98u-he-sqy"/>
+                <constraint firstItem="1kd-AI-b5Z" firstAttribute="centerX" secondItem="S21-h2-KiG" secondAttribute="centerX" id="CLD-EM-TgG"/>
+                <constraint firstAttribute="bottom" secondItem="Btc-c9-PmG" secondAttribute="bottom" constant="4" id="WSJ-Ov-fYT"/>
+                <constraint firstItem="S21-h2-KiG" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="WnU-eb-syV"/>
+                <constraint firstAttribute="trailing" secondItem="Btc-c9-PmG" secondAttribute="trailing" constant="4" id="YQE-k8-UGT"/>
+                <constraint firstItem="1kd-AI-b5Z" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="3" id="ipo-jV-oK3"/>
+                <constraint firstItem="5St-jP-NLF" firstAttribute="centerX" secondItem="1kd-AI-b5Z" secondAttribute="centerX" id="rB4-Hs-zKR"/>
+                <constraint firstAttribute="trailing" secondItem="S21-h2-KiG" secondAttribute="trailing" id="tIC-fi-Fb1"/>
+                <constraint firstItem="5St-jP-NLF" firstAttribute="centerY" secondItem="1kd-AI-b5Z" secondAttribute="centerY" id="tgc-nK-THb"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <connections>
+                <outlet property="innerImg" destination="Btc-c9-PmG" id="pXv-bY-qFA"/>
+                <outlet property="mapIcon" destination="5St-jP-NLF" id="cOv-FL-KWE"/>
+                <outlet property="outerImg" destination="S21-h2-KiG" id="koV-ju-q2N"/>
+                <outlet property="pinView" destination="1kd-AI-b5Z" id="22A-2u-MLE"/>
+            </connections>
+            <point key="canvasLocation" x="-151.90839694656489" y="0.35211267605633806"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="circle" width="512" height="512"/>
+    </resources>
+</document>

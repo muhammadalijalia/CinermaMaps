@@ -1,0 +1,2862 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0AT-80-1kw.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Write down your question and problem and we would be happy to help about it\"; ObjectID = \"0AT-80-1kw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Write down your question and problem and we would be happy to help about it"
+          }
+        }
+      }
+    },
+    "0dI-4y-0Vg.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"No cover allow\"; ObjectID = \"0dI-4y-0Vg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "No cover allow"
+          }
+        }
+      }
+    },
+    "0JH-iX-QEc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"$ 39 SR\"; ObjectID = \"0JH-iX-QEc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "$ 39 SR"
+          }
+        }
+      }
+    },
+    "0oj-BW-jyB.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Subscriptions\"; ObjectID = \"0oj-BW-jyB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subscriptions"
+          }
+        }
+      }
+    },
+    "0Sb-Mw-hfo.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Settings\"; ObjectID = \"0Sb-Mw-hfo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Settings"
+          }
+        }
+      }
+    },
+    "1co-Dr-Szf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Free trip schedule when planning\"; ObjectID = \"1co-Dr-Szf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Free trip schedule when planning"
+          }
+        }
+      }
+    },
+    "1cX-IE-mHX.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"About the city\"; ObjectID = \"1cX-IE-mHX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "About the city"
+          }
+        }
+      }
+    },
+    "1FE-PI-QBp.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Select Map Name\"; ObjectID = \"1FE-PI-QBp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select Map Name"
+          }
+        }
+      }
+    },
+    "1un-1D-E54.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Service\"; ObjectID = \"1un-1D-E54\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Service"
+          }
+        }
+      }
+    },
+    "2vg-4C-Tps.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"The writing date is 10/08/2024\"; ObjectID = \"2vg-4C-Tps\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The writing date is 10/08/2024"
+          }
+        }
+      }
+    },
+    "3J5-Lj-cbQ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Maps\"; ObjectID = \"3J5-Lj-cbQ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maps"
+          }
+        }
+      }
+    },
+    "3l4-nv-vUj.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Trip Schedule\"; ObjectID = \"3l4-nv-vUj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trip Schedule"
+          }
+        }
+      }
+    },
+    "3PT-85-E3d.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Login\"; ObjectID = \"3PT-85-E3d\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Login"
+          }
+        }
+      }
+    },
+    "4jY-C6-dsU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"One of the key aspects of success in any task or journey is good preparation. This means having all the necessary tools and materials to effectively complete the task or successfully reach the desired destination.\\n\\nFor example, imagine you are about to embark on a road trip. Before setting off, you will make sure you have enough gas in the car, check that the tires are properly inflated, and have a map or GPS system to guide you. These are all essential tools and preparations for a successful trip.\\n\\nThe same concept applies to any task or project. If you are working on a computer, you need the necessary software, files, and an internet connection to successfully complete your task.\\n\\nOne of the key aspects of success in any task or journey is good preparation. This means having all the necessary tools and materials to effectively complete the task or successfully reach the desired destination.\\n\\nFor example, imagine you are about to embark on a road trip. Before setting off, you will make sure you have enough gas in the car, check that the tires are properly inflated, and have a map or GPS system to guide you. These are all essential tools and preparations for a successful trip.\\n\\nThe same concept applies to any task or project. If you are working on a computer, you need the necessary software, files, and an internet connection to successfully complete your task.\\n\\nOne of the key aspects of success in any task or journey is good preparation. This means having all the necessary tools and materials to effectively complete the task or successfully reach the desired destination.\\n\\nFor example, imagine you are about to embark on a road trip. Before setting off, you will make sure you have enough gas in the car, check that the tires are properly inflated, and have a map or GPS system to guide you. These are all essential tools and preparations for a successful trip.\\n\\nThe same concept applies to any task or project. If you are working on a computer, you need the necessary software, files, and an internet connection to successfully complete\"; ObjectID = \"4jY-C6-dsU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "One of the key aspects of success in any task or journey is good preparation. This means having all the necessary tools and materials to effectively complete the task or successfully reach the desired destination.\n\nFor example, imagine you are about to embark on a road trip. Before setting off, you will make sure you have enough gas in the car, check that the tires are properly inflated, and have a map or GPS system to guide you. These are all essential tools and preparations for a successful trip.\n\nThe same concept applies to any task or project. If you are working on a computer, you need the necessary software, files, and an internet connection to successfully complete your task.\n\nOne of the key aspects of success in any task or journey is good preparation. This means having all the necessary tools and materials to effectively complete the task or successfully reach the desired destination.\n\nFor example, imagine you are about to embark on a road trip. Before setting off, you will make sure you have enough gas in the car, check that the tires are properly inflated, and have a map or GPS system to guide you. These are all essential tools and preparations for a successful trip.\n\nThe same concept applies to any task or project. If you are working on a computer, you need the necessary software, files, and an internet connection to successfully complete your task.\n\nOne of the key aspects of success in any task or journey is good preparation. This means having all the necessary tools and materials to effectively complete the task or successfully reach the desired destination.\n\nFor example, imagine you are about to embark on a road trip. Before setting off, you will make sure you have enough gas in the car, check that the tires are properly inflated, and have a map or GPS system to guide you. These are all essential tools and preparations for a successful trip.\n\nThe same concept applies to any task or project. If you are working on a computer, you need the necessary software, files, and an internet connection to successfully complete"
+          }
+        }
+      }
+    },
+    "4lC-gB-Dbj.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Select Map type\"; ObjectID = \"4lC-gB-Dbj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select Map type"
+          }
+        }
+      }
+    },
+    "4LY-fp-P2p.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"About us\"; ObjectID = \"4LY-fp-P2p\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "About us"
+          }
+        }
+      }
+    },
+    "5Cr-YP-vOz.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"The Weather:\"; ObjectID = \"5Cr-YP-vOz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The Weather:"
+          }
+        }
+      }
+    },
+    "5DP-Gu-MPv.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"NA\"; ObjectID = \"5DP-Gu-MPv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "NA"
+          }
+        }
+      }
+    },
+    "5Dq-76-gYc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Road name, Istanbul\"; ObjectID = \"5Dq-76-gYc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Road name, Istanbul"
+          }
+        }
+      }
+    },
+    "5iO-qU-Vk0.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Fast Delivery Comapny\"; ObjectID = \"5iO-qU-Vk0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fast Delivery Comapny"
+          }
+        }
+      }
+    },
+    "5LN-zU-xxw.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Date of birth\"; ObjectID = \"5LN-zU-xxw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Date of birth"
+          }
+        }
+      }
+    },
+    "6HB-fV-yeB.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"+919424677784\"; ObjectID = \"6HB-fV-yeB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+919424677784"
+          }
+        }
+      }
+    },
+    "6Mu-p5-xZa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Trip needs a table. Add one now.\"; ObjectID = \"6Mu-p5-xZa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trip needs a table. Add one now."
+          }
+        }
+      }
+    },
+    "6pa-qv-Hg9.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Mobile\"; ObjectID = \"6pa-qv-Hg9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mobile"
+          }
+        }
+      }
+    },
+    "7Ep-Qn-04B.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Total Days\"; ObjectID = \"7Ep-Qn-04B\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Total Days"
+          }
+        }
+      }
+    },
+    "7gm-2t-XsI.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"SUBMIT\"; ObjectID = \"7gm-2t-XsI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SUBMIT"
+          }
+        }
+      }
+    },
+    "7Po-qP-k0o.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Description\"; ObjectID = \"7Po-qP-k0o\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Description"
+          }
+        }
+      }
+    },
+    "7ra-8q-PmZ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"General Information\"; ObjectID = \"7ra-8q-PmZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "General Information"
+          }
+        }
+      }
+    },
+    "7vq-3Q-eBd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"How many days in your Trip?\"; ObjectID = \"7vq-3Q-eBd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How many days in your Trip?"
+          }
+        }
+      }
+    },
+    "8mU-cy-ZCc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Free trip schedule when planning\"; ObjectID = \"8mU-cy-ZCc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Free trip schedule when planning"
+          }
+        }
+      }
+    },
+    "8nW-hW-Tkf.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Verification\"; ObjectID = \"8nW-hW-Tkf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Verification"
+          }
+        }
+      }
+    },
+    "8WD-Dv-Kxx.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Name\"; ObjectID = \"8WD-Dv-Kxx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name"
+          }
+        }
+      }
+    },
+    "9eh-Hb-bDm.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Arabic\"; ObjectID = \"9eh-Hb-bDm\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Arabic"
+          }
+        }
+      }
+    },
+    "9Fs-6L-W0y.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Create Schedule\"; ObjectID = \"9Fs-6L-W0y\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create Schedule"
+          }
+        }
+      }
+    },
+    "9nh-4j-YKb.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Select a distance 10 Km\"; ObjectID = \"9nh-4j-YKb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select a distance 10 Km"
+          }
+        }
+      }
+    },
+    "9PY-8y-5tI.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Or\"; ObjectID = \"9PY-8y-5tI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Or"
+          }
+        }
+      }
+    },
+    "9tc-JA-YF4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"code: 20%\"; ObjectID = \"9tc-JA-YF4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "code: 20%"
+          }
+        }
+      }
+    },
+    "9Y9-Bj-4UA.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Submit your suggestion\"; ObjectID = \"9Y9-Bj-4UA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Submit your suggestion"
+          }
+        }
+      }
+    },
+    "77a-fN-94u.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Select number of day\"; ObjectID = \"77a-fN-94u\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select number of day"
+          }
+        }
+      }
+    },
+    "98O-xe-mDI.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Total \"; ObjectID = \"98O-xe-mDI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Total "
+          }
+        }
+      }
+    },
+    "179-Uy-hji.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Submit your suggestion\"; ObjectID = \"179-Uy-hji\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Submit your suggestion"
+          }
+        }
+      }
+    },
+    "946-64-1uZ.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Profile\"; ObjectID = \"946-64-1uZ\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Profile"
+          }
+        }
+      }
+    },
+    "ABv-3j-68y.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Select number of day:\"; ObjectID = \"ABv-3j-68y\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select number of day:"
+          }
+        }
+      }
+    },
+    "adO-RV-oHj.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"More\"; ObjectID = \"adO-RV-oHj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "adO-RV-oHj.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"More\"; ObjectID = \"adO-RV-oHj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "alU-wK-Tcv.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Turkey Maps\"; ObjectID = \"alU-wK-Tcv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turkey Maps"
+          }
+        }
+      }
+    },
+    "ar5-1f-JF1.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Mobile\"; ObjectID = \"ar5-1f-JF1\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mobile"
+          }
+        }
+      }
+    },
+    "AUc-Jr-Tb7.placeholder" : {
+      "comment" : "Class = \"UISearchBar\"; placeholder = \"Search for Location\"; ObjectID = \"AUc-Jr-Tb7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search for Location"
+          }
+        }
+      }
+    },
+    "B0l-Af-QUT.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Map\"; ObjectID = \"B0l-Af-QUT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map"
+          }
+        }
+      }
+    },
+    "B5e-rS-qRT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Verification Code\"; ObjectID = \"B5e-rS-qRT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Verification Code"
+          }
+        }
+      }
+    },
+    "b9R-z5-ebf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Terms & Conditions\"; ObjectID = \"b9R-z5-ebf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Terms & Conditions"
+          }
+        }
+      }
+    },
+    "bDu-1c-0pf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Address\"; ObjectID = \"bDu-1c-0pf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Address"
+          }
+        }
+      }
+    },
+    "be3-Df-Pml.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Don't Receive a Code?\"; ObjectID = \"be3-Df-Pml\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Don't Receive a Code?"
+          }
+        }
+      }
+    },
+    "bFb-5D-VUT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"All Maps\"; ObjectID = \"bFb-5D-VUT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Maps"
+          }
+        }
+      }
+    },
+    "bi3-wD-gm0.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"We just send you a verification code, check your inbox to get them.\"; ObjectID = \"bi3-wD-gm0\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "We just send you a verification code, check your inbox to get them."
+          }
+        }
+      }
+    },
+    "bJA-en-oVg.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Edit\"; ObjectID = \"bJA-en-oVg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit"
+          }
+        }
+      }
+    },
+    "bJA-en-oVg.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"bJA-en-oVg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "bsl-ct-O8Z.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Successfully Subcribed\"; ObjectID = \"bsl-ct-O8Z\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Successfully Subcribed"
+          }
+        }
+      }
+    },
+    "cAA-C6-CWa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Do you have any suggestions for maps?\"; ObjectID = \"cAA-C6-CWa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Do you have any suggestions for maps?"
+          }
+        }
+      }
+    },
+    "caX-if-uLk.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Country Name\"; ObjectID = \"caX-if-uLk\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Country Name"
+          }
+        }
+      }
+    },
+    "cb0-EX-Iro.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Provide review rating\"; ObjectID = \"cb0-EX-Iro\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Provide review rating"
+          }
+        }
+      }
+    },
+    "cgn-po-Fff.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Add place to table\"; ObjectID = \"cgn-po-Fff\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add place to table"
+          }
+        }
+      }
+    },
+    "cNk-Ec-bPW.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Istanbul Map 1\"; ObjectID = \"cNk-Ec-bPW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Istanbul Map 1"
+          }
+        }
+      }
+    },
+    "cOy-fh-oox.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"4.0\"; ObjectID = \"cOy-fh-oox\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "4.0"
+          }
+        }
+      }
+    },
+    "CpW-80-pVR.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"More\"; ObjectID = \"CpW-80-pVR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "CpW-80-pVR.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"More\"; ObjectID = \"CpW-80-pVR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "More"
+          }
+        }
+      }
+    },
+    "crS-bB-SIL.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Cars Police\"; ObjectID = \"crS-bB-SIL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Cars Police"
+          }
+        }
+      }
+    },
+    "csE-3E-38j.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"1 Worth a visit\"; ObjectID = \"csE-3E-38j\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1 Worth a visit"
+          }
+        }
+      }
+    },
+    "Cu9-7O-m85.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Service Evaluation\"; ObjectID = \"Cu9-7O-m85\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Service Evaluation"
+          }
+        }
+      }
+    },
+    "Cu9-7O-m85.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"Cu9-7O-m85\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "cWK-R2-EUX.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Dewas\"; ObjectID = \"cWK-R2-EUX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Dewas"
+          }
+        }
+      }
+    },
+    "D8Q-an-1mI.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Guidelines and Tips\"; ObjectID = \"D8Q-an-1mI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Guidelines and Tips"
+          }
+        }
+      }
+    },
+    "DG2-RT-Q1e.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Service Details\"; ObjectID = \"DG2-RT-Q1e\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Service Details"
+          }
+        }
+      }
+    },
+    "DOo-lG-j06.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Communications:\"; ObjectID = \"DOo-lG-j06\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Communications:"
+          }
+        }
+      }
+    },
+    "dOQ-G9-KDw.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Edit Profile\"; ObjectID = \"dOQ-G9-KDw\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Edit Profile"
+          }
+        }
+      }
+    },
+    "e5B-XI-65M.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Select Map Type\"; ObjectID = \"e5B-XI-65M\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select Map Type"
+          }
+        }
+      }
+    },
+    "E5h-dj-HrT.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"The Cities\"; ObjectID = \"E5h-dj-HrT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The Cities"
+          }
+        }
+      }
+    },
+    "E27-Jm-34k.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Language\"; ObjectID = \"E27-Jm-34k\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Language"
+          }
+        }
+      }
+    },
+    "eGs-cK-cRR.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Choose this location\"; ObjectID = \"eGs-cK-cRR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose this location"
+          }
+        }
+      }
+    },
+    "eHa-to-MbU.text" : {
+      "comment" : "Class = \"UITextView\"; text = \"Search Location\"; ObjectID = \"eHa-to-MbU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search Location"
+          }
+        }
+      }
+    },
+    "eJ7-2E-N8B.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Total Days\"; ObjectID = \"eJ7-2E-N8B\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Total Days"
+          }
+        }
+      }
+    },
+    "ElA-n7-GK7.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Privacy and Data\"; ObjectID = \"ElA-n7-GK7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Privacy and Data"
+          }
+        }
+      }
+    },
+    "eNS-Nj-YOY.placeholder" : {
+      "comment" : "Class = \"UISearchBar\"; placeholder = \"Search for Location\"; ObjectID = \"eNS-Nj-YOY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search for Location"
+          }
+        }
+      }
+    },
+    "epO-vm-Q3o.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Home\"; ObjectID = \"epO-vm-Q3o\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Home"
+          }
+        }
+      }
+    },
+    "eUV-fx-HEX.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Service Details\"; ObjectID = \"eUV-fx-HEX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Service Details"
+          }
+        }
+      }
+    },
+    "eX0-ov-8Hl.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Health:\"; ObjectID = \"eX0-ov-8Hl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Health:"
+          }
+        }
+      }
+    },
+    "F2T-Ds-DYV.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Security Code\"; ObjectID = \"F2T-Ds-DYV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Security Code"
+          }
+        }
+      }
+    },
+    "f5H-Lz-WTD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Map type:\"; ObjectID = \"f5H-Lz-WTD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map type:"
+          }
+        }
+      }
+    },
+    "f24-PT-KZf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"In Morning\"; ObjectID = \"f24-PT-KZf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "In Morning"
+          }
+        }
+      }
+    },
+    "f36-U4-ctK.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"How can we help you?\"; ObjectID = \"f36-U4-ctK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How can we help you?"
+          }
+        }
+      }
+    },
+    "FHb-55-6P6.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Stander\"; ObjectID = \"FHb-55-6P6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Stander"
+          }
+        }
+      }
+    },
+    "FR8-gW-9IY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Account Registration\"; ObjectID = \"FR8-gW-9IY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Account Registration"
+          }
+        }
+      }
+    },
+    "fsj-7P-3SM.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Gender\"; ObjectID = \"fsj-7P-3SM\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Gender"
+          }
+        }
+      }
+    },
+    "FVZ-Kw-h8S.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Details Subscription\"; ObjectID = \"FVZ-Kw-h8S\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Details Subscription"
+          }
+        }
+      }
+    },
+    "FyH-G8-nHC.text" : {
+      "comment" : "Class = \"UITextView\"; text = \"Type something\"; ObjectID = \"FyH-G8-nHC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type something"
+          }
+        }
+      }
+    },
+    "fz3-bn-Iy6.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"City maps in the Republic of Turkey.\"; ObjectID = \"fz3-bn-Iy6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "City maps in the Republic of Turkey."
+          }
+        }
+      }
+    },
+    "GMJ-Tc-sbB.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Notifications\"; ObjectID = \"GMJ-Tc-sbB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Notifications"
+          }
+        }
+      }
+    },
+    "gQT-mw-hsL.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Free trip schedule when planning\"; ObjectID = \"gQT-mw-hsL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Free trip schedule when planning"
+          }
+        }
+      }
+    },
+    "gvi-CF-HMu.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Select Language\"; ObjectID = \"gvi-CF-HMu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select Language"
+          }
+        }
+      }
+    },
+    "gxU-8K-nvg.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Add Promo Code\"; ObjectID = \"gxU-8K-nvg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Add Promo Code"
+          }
+        }
+      }
+    },
+    "H6T-9c-AoY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Expiry Date\"; ObjectID = \"H6T-9c-AoY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Expiry Date"
+          }
+        }
+      }
+    },
+    "h8p-2I-gMn.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"+029008577866\"; ObjectID = \"h8p-2I-gMn\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+029008577866"
+          }
+        }
+      }
+    },
+    "hAe-0e-fkT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Trip Schedule\"; ObjectID = \"hAe-0e-fkT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trip Schedule"
+          }
+        }
+      }
+    },
+    "Har-QT-iR4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Emergency Phone\"; ObjectID = \"Har-QT-iR4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Emergency Phone"
+          }
+        }
+      }
+    },
+    "Hm9-wt-rK9.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"PLACES\"; ObjectID = \"Hm9-wt-rK9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PLACES"
+          }
+        }
+      }
+    },
+    "hYp-zX-rG8.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"List\"; ObjectID = \"hYp-zX-rG8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "List"
+          }
+        }
+      }
+    },
+    "I3u-uN-R9v.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"DONE\"; ObjectID = \"I3u-uN-R9v\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "DONE"
+          }
+        }
+      }
+    },
+    "iBL-A8-Yb7.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Search\"; ObjectID = \"iBL-A8-Yb7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "iCf-Mg-bbj.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Away from you 3,6556 km\"; ObjectID = \"iCf-Mg-bbj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Away from you 3,6556 km"
+          }
+        }
+      }
+    },
+    "IFt-f0-PlR.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"How many days in your Trip?\"; ObjectID = \"IFt-f0-PlR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How many days in your Trip?"
+          }
+        }
+      }
+    },
+    "IjD-Jd-flP.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Fast Delivery Comapny\"; ObjectID = \"IjD-Jd-flP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Fast Delivery Comapny"
+          }
+        }
+      }
+    },
+    "IOS-af-11L.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Platenum\"; ObjectID = \"IOS-af-11L\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Platenum"
+          }
+        }
+      }
+    },
+    "Iov-Ek-ZSD.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Map type:\"; ObjectID = \"Iov-Ek-ZSD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map type:"
+          }
+        }
+      }
+    },
+    "iPx-Bu-C0D.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Enter Map Name\"; ObjectID = \"iPx-Bu-C0D\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter Map Name"
+          }
+        }
+      }
+    },
+    "IT2-TP-wkh.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"1 Worth a visit\"; ObjectID = \"IT2-TP-wkh\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "1 Worth a visit"
+          }
+        }
+      }
+    },
+    "IVf-0y-vgR.placeholder" : {
+      "comment" : "Class = \"UISearchBar\"; placeholder = \"Search for Location\"; ObjectID = \"IVf-0y-vgR\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search for Location"
+          }
+        }
+      }
+    },
+    "JBq-AR-5df.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Promo Code\"; ObjectID = \"JBq-AR-5df\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Promo Code"
+          }
+        }
+      }
+    },
+    "Jev-dc-mvS.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Mobile Number\"; ObjectID = \"Jev-dc-mvS\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Mobile Number"
+          }
+        }
+      }
+    },
+    "JEV-pw-R9N.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Clothing\"; ObjectID = \"JEV-pw-R9N\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Clothing"
+          }
+        }
+      }
+    },
+    "jEz-nq-k3D.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Tempreture 22 degree celsius\"; ObjectID = \"jEz-nq-k3D\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Tempreture 22 degree celsius"
+          }
+        }
+      }
+    },
+    "Jgc-Nb-3uj.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Give Rating\"; ObjectID = \"Jgc-Nb-3uj\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Give Rating"
+          }
+        }
+      }
+    },
+    "JgF-Hm-V0i.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Closed\"; ObjectID = \"JgF-Hm-V0i\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Closed"
+          }
+        }
+      }
+    },
+    "jgK-ka-4oI.placeholder" : {
+      "comment" : "Class = \"UISearchBar\"; placeholder = \"Search for Location\"; ObjectID = \"jgK-ka-4oI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search for Location"
+          }
+        }
+      }
+    },
+    "jhh-oX-GXv.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Select date of birth\"; ObjectID = \"jhh-oX-GXv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select date of birth"
+          }
+        }
+      }
+    },
+    "Jhm-VC-8pf.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"A trip by Cineramamap\"; ObjectID = \"Jhm-VC-8pf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A trip by Cineramamap"
+          }
+        }
+      }
+    },
+    "jKx-sZ-qdl.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Delete Account\"; ObjectID = \"jKx-sZ-qdl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Delete Account"
+          }
+        }
+      }
+    },
+    "JPN-gU-t2b.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Police\"; ObjectID = \"JPN-gU-t2b\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Police"
+          }
+        }
+      }
+    },
+    "Js8-mZ-Dle.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"City maps in the Rpublic of Turkey\"; ObjectID = \"Js8-mZ-Dle\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "City maps in the Rpublic of Turkey"
+          }
+        }
+      }
+    },
+    "JUU-6C-gHP.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter Name\"; ObjectID = \"JUU-6C-gHP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter Name"
+          }
+        }
+      }
+    },
+    "Keg-eO-3IL.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Map Name\"; ObjectID = \"Keg-eO-3IL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map Name"
+          }
+        }
+      }
+    },
+    "kFw-GS-olr.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"All Maps\"; ObjectID = \"kFw-GS-olr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "All Maps"
+          }
+        }
+      }
+    },
+    "koE-jH-U3O.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Choose your suitable plan in Istanbul Map 1\"; ObjectID = \"koE-jH-U3O\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose your suitable plan in Istanbul Map 1"
+          }
+        }
+      }
+    },
+    "Kvg-rJ-QED.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Contact\"; ObjectID = \"Kvg-rJ-QED\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contact"
+          }
+        }
+      }
+    },
+    "kWV-4a-haO.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Save\"; ObjectID = \"kWV-4a-haO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "L6s-VH-TyH.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Guidelines and Tips\"; ObjectID = \"L6s-VH-TyH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Guidelines and Tips"
+          }
+        }
+      }
+    },
+    "L8y-SZ-EJx.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter security code\"; ObjectID = \"L8y-SZ-EJx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter security code"
+          }
+        }
+      }
+    },
+    "Lbq-OF-gMV.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Payment Successful\"; ObjectID = \"Lbq-OF-gMV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Payment Successful"
+          }
+        }
+      }
+    },
+    "ljO-ZP-TgD.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"REVIEW\"; ObjectID = \"ljO-ZP-TgD\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "REVIEW"
+          }
+        }
+      }
+    },
+    "lqz-O6-UBB.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Subscribe Now\"; ObjectID = \"lqz-O6-UBB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subscribe Now"
+          }
+        }
+      }
+    },
+    "lVh-yf-6Ag.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Standard\"; ObjectID = \"lVh-yf-6Ag\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Standard"
+          }
+        }
+      }
+    },
+    "LZL-XD-oVc.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Phone Number\"; ObjectID = \"LZL-XD-oVc\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Phone Number"
+          }
+        }
+      }
+    },
+    "Lzp-q6-Ill.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Contact Us\"; ObjectID = \"Lzp-q6-Ill\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contact Us"
+          }
+        }
+      }
+    },
+    "M2p-JZ-qII.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Maps\"; ObjectID = \"M2p-JZ-qII\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maps"
+          }
+        }
+      }
+    },
+    "mcC-FN-gFL.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"ABOUT THE MAP\"; ObjectID = \"mcC-FN-gFL\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "ABOUT THE MAP"
+          }
+        }
+      }
+    },
+    "meX-Fi-BrW.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Companies\"; ObjectID = \"meX-Fi-BrW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Companies"
+          }
+        }
+      }
+    },
+    "mfJ-Zq-ahq.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Change the langauge\"; ObjectID = \"mfJ-Zq-ahq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Change the langauge"
+          }
+        }
+      }
+    },
+    "mjt-1D-tqP.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Skip\"; ObjectID = \"mjt-1D-tqP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Skip"
+          }
+        }
+      }
+    },
+    "mlL-P5-sJO.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Trip schedule \"; ObjectID = \"mlL-P5-sJO\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Trip schedule "
+          }
+        }
+      }
+    },
+    "mwB-9u-HPp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"PRH5+M42, Depalpur Rd, Devi Ahillyabai Holkar Airport Area, Indore, Madhya Pradesh 452005, India\"; ObjectID = \"mwB-9u-HPp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "PRH5+M42, Depalpur Rd, Devi Ahillyabai Holkar Airport Area, Indore, Madhya Pradesh 452005, India"
+          }
+        }
+      }
+    },
+    "mX5-Em-CLm.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Nasser Khalid\"; ObjectID = \"mX5-Em-CLm\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Nasser Khalid"
+          }
+        }
+      }
+    },
+    "N7c-vx-0NY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Frequent updates on places\"; ObjectID = \"N7c-vx-0NY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Frequent updates on places"
+          }
+        }
+      }
+    },
+    "nAa-ah-t2k.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Istanbul Map 1\"; ObjectID = \"nAa-ah-t2k\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Istanbul Map 1"
+          }
+        }
+      }
+    },
+    "Nbh-pb-wlN.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Hello, Nasser\"; ObjectID = \"Nbh-pb-wlN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Hello, Nasser"
+          }
+        }
+      }
+    },
+    "NeY-EJ-gVV.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"NeY-EJ-gVV\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "NgB-gE-d1M.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Website\"; ObjectID = \"NgB-gE-d1M\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Website"
+          }
+        }
+      }
+    },
+    "NQ9-9D-gEa.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Duration\"; ObjectID = \"NQ9-9D-gEa\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Duration"
+          }
+        }
+      }
+    },
+    "Nt7-Aa-wXb.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"For suggestions and adding \\nother maps for cities.\"; ObjectID = \"Nt7-Aa-wXb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "For suggestions and adding \nother maps for cities."
+          }
+        }
+      }
+    },
+    "NwQ-Z2-mFi.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Turkish lira 1 dollar = 20 lira\"; ObjectID = \"NwQ-Z2-mFi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turkish lira 1 dollar = 20 lira"
+          }
+        }
+      }
+    },
+    "oLE-pg-pHv.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Where do you want your trip to bell?\"; ObjectID = \"oLE-pg-pHv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Where do you want your trip to bell?"
+          }
+        }
+      }
+    },
+    "orj-h6-vF8.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Type\"; ObjectID = \"orj-h6-vF8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Type"
+          }
+        }
+      }
+    },
+    "OwT-lf-m4L.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Terms & Conditions\"; ObjectID = \"OwT-lf-m4L\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Terms & Conditions"
+          }
+        }
+      }
+    },
+    "P0l-BM-b5x.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"    English\"; ObjectID = \"P0l-BM-b5x\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "    English"
+          }
+        }
+      }
+    },
+    "P4V-BO-WZ3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Contact Us\"; ObjectID = \"P4V-BO-WZ3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contact Us"
+          }
+        }
+      }
+    },
+    "pAg-TL-4cT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Free trip schedule when planning\"; ObjectID = \"pAg-TL-4cT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Free trip schedule when planning"
+          }
+        }
+      }
+    },
+    "pci-Oo-nV7.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Select Gender\"; ObjectID = \"pci-Oo-nV7\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select Gender"
+          }
+        }
+      }
+    },
+    "pls-hY-2xW.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"rewer\"; ObjectID = \"pls-hY-2xW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "rewer"
+          }
+        }
+      }
+    },
+    "PWb-Cv-noe.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Map Name\"; ObjectID = \"PWb-Cv-noe\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Map Name"
+          }
+        }
+      }
+    },
+    "px7-sB-zDF.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Advertisement\"; ObjectID = \"px7-sB-zDF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Advertisement"
+          }
+        }
+      }
+    },
+    "q8N-Wt-00O.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Services\"; ObjectID = \"q8N-Wt-00O\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Services"
+          }
+        }
+      }
+    },
+    "QAi-jb-T36.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Search\"; ObjectID = \"QAi-jb-T36\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search"
+          }
+        }
+      }
+    },
+    "QHJ-JI-9G9.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Monthly\"; ObjectID = \"QHJ-JI-9G9\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Monthly"
+          }
+        }
+      }
+    },
+    "qM8-gX-SN3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"C type 200V - 10A\"; ObjectID = \"qM8-gX-SN3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "C type 200V - 10A"
+          }
+        }
+      }
+    },
+    "QvH-v9-u9V.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Save\"; ObjectID = \"QvH-v9-u9V\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Save"
+          }
+        }
+      }
+    },
+    "qwh-Ky-wiz.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"39 riyals per month\"; ObjectID = \"qwh-Ky-wiz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "39 riyals per month"
+          }
+        }
+      }
+    },
+    "RAv-SG-sx8.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Maps\"; ObjectID = \"RAv-SG-sx8\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Maps"
+          }
+        }
+      }
+    },
+    "rD7-ow-hTB.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"+919424677784\"; ObjectID = \"rD7-ow-hTB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+919424677784"
+          }
+        }
+      }
+    },
+    "ReK-ma-VLP.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Subscriptions\"; ObjectID = \"ReK-ma-VLP\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subscriptions"
+          }
+        }
+      }
+    },
+    "Rgt-e8-jBY.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Currency\"; ObjectID = \"Rgt-e8-jBY\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Currency"
+          }
+        }
+      }
+    },
+    "Rpt-M1-cmF.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Choose Your Language\"; ObjectID = \"Rpt-M1-cmF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose Your Language"
+          }
+        }
+      }
+    },
+    "rXH-gx-t5L.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Contact\"; ObjectID = \"rXH-gx-t5L\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Contact"
+          }
+        }
+      }
+    },
+    "S4K-zT-LRX.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Last Name\"; ObjectID = \"S4K-zT-LRX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Name"
+          }
+        }
+      }
+    },
+    "S6X-3L-jJp.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Turkey, Istanbul\"; ObjectID = \"S6X-3L-jJp\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turkey, Istanbul"
+          }
+        }
+      }
+    },
+    "s9U-Ls-WeT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Your Mobile Number\"; ObjectID = \"s9U-Ls-WeT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Your Mobile Number"
+          }
+        }
+      }
+    },
+    "sEy-tH-ySK.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Email\"; ObjectID = \"sEy-tH-ySK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Email"
+          }
+        }
+      }
+    },
+    "Sle-sR-7BX.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Email Address\"; ObjectID = \"Sle-sR-7BX\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Email Address"
+          }
+        }
+      }
+    },
+    "T4r-b0-pXF.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Find Your Address\"; ObjectID = \"T4r-b0-pXF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Find Your Address"
+          }
+        }
+      }
+    },
+    "T5k-NH-IqN.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter expiry date\"; ObjectID = \"T5k-NH-IqN\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter expiry date"
+          }
+        }
+      }
+    },
+    "tCp-sz-hfx.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Road name, Istanbul\"; ObjectID = \"tCp-sz-hfx\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Road name, Istanbul"
+          }
+        }
+      }
+    },
+    "Tf1-7k-ZHz.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Label\"; ObjectID = \"Tf1-7k-ZHz\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Label"
+          }
+        }
+      }
+    },
+    "tKz-ix-sS4.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \" Map\"; ObjectID = \"tKz-ix-sS4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : " Map"
+          }
+        }
+      }
+    },
+    "TLi-vZ-59o.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Electrical Sockat:\"; ObjectID = \"TLi-vZ-59o\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Electrical Sockat:"
+          }
+        }
+      }
+    },
+    "tm1-JR-sEF.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"39 Sr monthly\"; ObjectID = \"tm1-JR-sEF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "39 Sr monthly"
+          }
+        }
+      }
+    },
+    "tQl-RP-Pve.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Flu Vaccination COVID\"; ObjectID = \"tQl-RP-Pve\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Flu Vaccination COVID"
+          }
+        }
+      }
+    },
+    "TTH-nh-3kb.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Turkish Technology Company\"; ObjectID = \"TTH-nh-3kb\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turkish Technology Company"
+          }
+        }
+      }
+    },
+    "Tu4-LA-TsT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"A trip by Cineramamap\"; ObjectID = \"Tu4-LA-TsT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "A trip by Cineramamap"
+          }
+        }
+      }
+    },
+    "TX3-xU-ogK.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Phone Number\"; ObjectID = \"TX3-xU-ogK\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Phone Number"
+          }
+        }
+      }
+    },
+    "u0J-uy-4Kv.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"+919407128717\"; ObjectID = \"u0J-uy-4Kv\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "+919407128717"
+          }
+        }
+      }
+    },
+    "uBv-Eq-EVf.configuration.title" : {
+      "comment" : "Class = \"UIButton\"; configuration.title = \"Service Evaluation\"; ObjectID = \"uBv-Eq-EVf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Service Evaluation"
+          }
+        }
+      }
+    },
+    "uBv-Eq-EVf.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Button\"; ObjectID = \"uBv-Eq-EVf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Button"
+          }
+        }
+      }
+    },
+    "uGG-aO-sxy.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"The name of the map:\"; ObjectID = \"uGG-aO-sxy\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "The name of the map:"
+          }
+        }
+      }
+    },
+    "uja-Pb-S8Q.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter name on card\"; ObjectID = \"uja-Pb-S8Q\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter name on card"
+          }
+        }
+      }
+    },
+    "uM2-4e-n3Q.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Turkish Language\"; ObjectID = \"uM2-4e-n3Q\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Turkish Language"
+          }
+        }
+      }
+    },
+    "UVV-AA-h6K.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Logout\"; ObjectID = \"UVV-AA-h6K\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Logout"
+          }
+        }
+      }
+    },
+    "UZU-dp-2hW.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"SUBMIT\"; ObjectID = \"UZU-dp-2hW\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "SUBMIT"
+          }
+        }
+      }
+    },
+    "v2Z-0d-Ais.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Apply\"; ObjectID = \"v2Z-0d-Ais\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Apply"
+          }
+        }
+      }
+    },
+    "veg-gW-zqq.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Last Name\"; ObjectID = \"veg-gW-zqq\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Last Name"
+          }
+        }
+      }
+    },
+    "VJp-AE-WSF.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Card Number\"; ObjectID = \"VJp-AE-WSF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Card Number"
+          }
+        }
+      }
+    },
+    "vMq-im-QTF.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"My Maps\"; ObjectID = \"vMq-im-QTF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "My Maps"
+          }
+        }
+      }
+    },
+    "vRr-Ra-NRi.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"IMAGES\"; ObjectID = \"vRr-Ra-NRi\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "IMAGES"
+          }
+        }
+      }
+    },
+    "vz9-ku-SBo.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Payment\"; ObjectID = \"vz9-ku-SBo\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Payment"
+          }
+        }
+      }
+    },
+    "w4i-Zn-B2i.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"39 Sr monthly\"; ObjectID = \"w4i-Zn-B2i\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "39 Sr monthly"
+          }
+        }
+      }
+    },
+    "Waq-eX-fyC.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Subscribe Now\"; ObjectID = \"Waq-eX-fyC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subscribe Now"
+          }
+        }
+      }
+    },
+    "weh-tz-QFu.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Resend\"; ObjectID = \"weh-tz-QFu\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Resend"
+          }
+        }
+      }
+    },
+    "WJ1-Id-cnr.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"   Follow up with Google\"; ObjectID = \"WJ1-Id-cnr\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "   Follow up with Google"
+          }
+        }
+      }
+    },
+    "wjR-6b-mob.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Location\"; ObjectID = \"wjR-6b-mob\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Location"
+          }
+        }
+      }
+    },
+    "WTV-F4-SLT.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Free trip schedule when planning\"; ObjectID = \"WTV-F4-SLT\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Free trip schedule when planning"
+          }
+        }
+      }
+    },
+    "Wxp-ip-UBg.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"First Name\"; ObjectID = \"Wxp-ip-UBg\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "First Name"
+          }
+        }
+      }
+    },
+    "X5z-X3-OCl.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Create\"; ObjectID = \"X5z-X3-OCl\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create"
+          }
+        }
+      }
+    },
+    "X40-p2-mRA.placeholder" : {
+      "comment" : "Class = \"UISearchBar\"; placeholder = \"Search for Location\"; ObjectID = \"X40-p2-mRA\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Search for Location"
+          }
+        }
+      }
+    },
+    "xAw-yC-LDd.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Subscribe Maps\"; ObjectID = \"xAw-yC-LDd\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Subscribe Maps"
+          }
+        }
+      }
+    },
+    "XbN-W9-QsG.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Best times to visit:\"; ObjectID = \"XbN-W9-QsG\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Best times to visit:"
+          }
+        }
+      }
+    },
+    "XD2-Pr-UIB.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut \"; ObjectID = \"XD2-Pr-UIB\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut "
+          }
+        }
+      }
+    },
+    "Xd9-b8-w3M.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Reviews\"; ObjectID = \"Xd9-b8-w3M\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reviews"
+          }
+        }
+      }
+    },
+    "XGU-of-jZC.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Select Map Name:\"; ObjectID = \"XGU-of-jZC\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Select Map Name:"
+          }
+        }
+      }
+    },
+    "xhu-QI-ZBf.placeholder" : {
+      "comment" : "Class = \"UITextField\"; placeholder = \"Enter card number\"; ObjectID = \"xhu-QI-ZBf\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Enter card number"
+          }
+        }
+      }
+    },
+    "xKa-L4-1a4.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Application Rating\"; ObjectID = \"xKa-L4-1a4\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Application Rating"
+          }
+        }
+      }
+    },
+    "ybY-VZ-lL3.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Choose your country you would like to visit?\"; ObjectID = \"ybY-VZ-lL3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Choose your country you would like to visit?"
+          }
+        }
+      }
+    },
+    "ydM-DN-ttU.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Favorites\"; ObjectID = \"ydM-DN-ttU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Favorites"
+          }
+        }
+      }
+    },
+    "YeC-p9-UbF.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Go to the Map\"; ObjectID = \"YeC-p9-UbF\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Go to the Map"
+          }
+        }
+      }
+    },
+    "yhd-rn-5lI.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Terms & Conditions\"; ObjectID = \"yhd-rn-5lI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Terms & Conditions"
+          }
+        }
+      }
+    },
+    "YrF-OF-2cU.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Reviews\"; ObjectID = \"YrF-OF-2cU\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Reviews"
+          }
+        }
+      }
+    },
+    "yVU-mu-6DH.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"How do you prepare your self for travelling ?\"; ObjectID = \"yVU-mu-6DH\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "How do you prepare your self for travelling ?"
+          }
+        }
+      }
+    },
+    "Z96-R5-Q3E.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Create\"; ObjectID = \"Z96-R5-Q3E\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Create"
+          }
+        }
+      }
+    },
+    "zCS-vM-IeI.title" : {
+      "comment" : "Class = \"UITabBarItem\"; title = \"Offers\"; ObjectID = \"zCS-vM-IeI\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Offers"
+          }
+        }
+      }
+    },
+    "zfz-GG-B8R.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Official Language\"; ObjectID = \"zfz-GG-B8R\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Official Language"
+          }
+        }
+      }
+    },
+    "ZJw-RN-Xz3.normalTitle" : {
+      "comment" : "Class = \"UIButton\"; normalTitle = \"Pay and Continue\"; ObjectID = \"ZJw-RN-Xz3\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Pay and Continue"
+          }
+        }
+      }
+    },
+    "ZMK-Zp-W2l.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Naser Khaled\"; ObjectID = \"ZMK-Zp-W2l\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Naser Khaled"
+          }
+        }
+      }
+    },
+    "ZyE-NX-Q4g.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"Name On Card\"; ObjectID = \"ZyE-NX-Q4g\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Name On Card"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

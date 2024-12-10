@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Basic subscription type"; ObjectID = "4X9-y5-U9s"; */
+"4X9-y5-U9s.text" = "نوع الاشتراك الأساسي";
+
+/* Class = "UILabel"; text = "39 SAR per month"; ObjectID = "DAw-vM-P9Q"; */
+"DAw-vM-P9Q.text" = "39 ريال شهريا";
+
+/* Class = "UIButton"; normalTitle = "Cancel Subscription"; ObjectID = "Ljr-XX-q9F"; */
+"Ljr-XX-q9F.normalTitle" = "إلغاء الاشتراك";
+
+/* Class = "UILabel"; text = "The Map of Istanbul"; ObjectID = "r17-lm-H9E"; */
+"r17-lm-H9E.text" = "خريطة اسطنبول";

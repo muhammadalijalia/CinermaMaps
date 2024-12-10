@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="32700.99.1234" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="22685"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="MapCell" id="gTV-IL-0wX" customClass="MapCell" customModule="Cinerama_Maps" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="271" height="158"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="271" height="158"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view clipsSubviews="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="2YQ-xt-25E">
+                        <rect key="frame" x="6" y="6" width="259" height="146"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="map1" translatesAutoresizingMaskIntoConstraints="NO" id="01O-TS-fwR">
+                                <rect key="frame" x="0.0" y="0.0" width="259" height="146"/>
+                            </imageView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="map1" translatesAutoresizingMaskIntoConstraints="NO" id="wFD-W8-f2V">
+                                <rect key="frame" x="10" y="10" width="44" height="28"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="44" id="Pl0-t9-ZEv"/>
+                                    <constraint firstAttribute="height" constant="28" id="h2i-G2-ekm"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="The Republic of Turkey." textAlignment="right" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9la-PN-wmX">
+                                <rect key="frame" x="20" y="118.66666666666667" width="231" height="19.333333333333329"/>
+                                <fontDescription key="fontDescription" name="Avenir-Black" family="Avenir" pointSize="14"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="01O-TS-fwR" firstAttribute="top" secondItem="2YQ-xt-25E" secondAttribute="top" id="5Ki-jY-Kol"/>
+                            <constraint firstAttribute="trailing" secondItem="9la-PN-wmX" secondAttribute="trailing" constant="8" id="G84-1Q-SPJ"/>
+                            <constraint firstItem="9la-PN-wmX" firstAttribute="leading" secondItem="2YQ-xt-25E" secondAttribute="leading" constant="20" id="JDp-0J-eoR"/>
+                            <constraint firstAttribute="trailing" secondItem="01O-TS-fwR" secondAttribute="trailing" id="N0H-EO-Qgb"/>
+                            <constraint firstAttribute="bottom" secondItem="01O-TS-fwR" secondAttribute="bottom" id="NUZ-tm-IcK"/>
+                            <constraint firstAttribute="bottom" secondItem="9la-PN-wmX" secondAttribute="bottom" constant="8" id="T8E-lu-vh1"/>
+                            <constraint firstItem="01O-TS-fwR" firstAttribute="leading" secondItem="2YQ-xt-25E" secondAttribute="leading" id="WMs-7t-WiM"/>
+                            <constraint firstItem="wFD-W8-f2V" firstAttribute="top" secondItem="2YQ-xt-25E" secondAttribute="top" constant="10" id="ifS-a2-Dz3"/>
+                            <constraint firstItem="wFD-W8-f2V" firstAttribute="leading" secondItem="2YQ-xt-25E" secondAttribute="leading" constant="10" id="sPH-zC-qW6"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="bottom" secondItem="2YQ-xt-25E" secondAttribute="bottom" constant="6" id="4pI-Fp-faf"/>
+                <constraint firstAttribute="trailing" secondItem="2YQ-xt-25E" secondAttribute="trailing" constant="6" id="kuM-Ek-236"/>
+                <constraint firstItem="2YQ-xt-25E" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="6" id="mXO-NX-WkH"/>
+                <constraint firstItem="2YQ-xt-25E" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="6" id="yvP-Tu-oJK"/>
+            </constraints>
+            <size key="customSize" width="271" height="158"/>
+            <connections>
+                <outlet property="CountryImage" destination="01O-TS-fwR" id="DL7-zw-rBR"/>
+                <outlet property="countryMap" destination="wFD-W8-f2V" id="cz6-nh-x2K"/>
+                <outlet property="lbl_CountryName" destination="9la-PN-wmX" id="kNi-uH-Yv3"/>
+            </connections>
+            <point key="canvasLocation" x="188.54961832061068" y="26.760563380281692"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="map1" width="165" height="119"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
